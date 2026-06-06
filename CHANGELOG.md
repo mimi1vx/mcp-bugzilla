@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
+## [Unreleased]
+
+### Added
+- add stdio transport (`--transport stdio`, `BUGZILLA_API_KEY` / `--api-key` for auth)
+
 ## [v0.13.0] - 2026-05-31
 
 ### Added
